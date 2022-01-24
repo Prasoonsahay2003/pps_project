@@ -215,7 +215,7 @@ int main()
     strcpy(station[18],"metupalaiyam");
     strcpy(station[19],"mangaluru");
     strcpy(station[20],"lokmanyatilak");
-    /(delhi)/strcpy(station[21],"nizamuddin");
+    strcpy(station[21],"nizamuddin");
     strcpy(station[22],"gorakhpur");
     strcpy(station[23],"barauni");
     strcpy(station[24],"yesvantpur");
